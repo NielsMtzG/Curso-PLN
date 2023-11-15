@@ -9,5 +9,5 @@ Contenido del curso: Introducción a los concetos de NLP: Cod Fac.
 * FakeNews: Corpus pre-etiquetado de noticias falsas y verdaderas. 
 
 ### Descarga de modelos para RT.ipynb
-* descargar modelo de Porter desde script para Natural Language Toolkit: nltk.download("punkt") stemming
-* descargar modelo de lemmatización y stopwords desde la terminal para Spacy: python -m spacy download en_core_web_sm
+* Descargar modelo de Porter desde script para Natural Language Toolkit: nltk.download("punkt") stemming
+* Descargar modelo de lemmatización y stopwords desde la terminal para Spacy: python -m spacy download en_core_web_sm
